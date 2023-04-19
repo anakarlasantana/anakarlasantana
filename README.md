@@ -11,6 +11,7 @@
 <div align="center"> 
 <a href="https://www.tiktok.com/@anakarladev?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/anakarlasantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:ana.karla.p.santana@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
