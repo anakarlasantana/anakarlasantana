@@ -9,7 +9,7 @@
 </div>
 
 <div align="center"> 
-<a href="https://tiktok/@anakarladev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
+<a href="https://www.tiktok.com/@anakarladev?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/anakarlasantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
